@@ -1,0 +1,6 @@
+C:\Code\JCR\Tracers.AddEditObservation\Tracers.AddEditObservation\bin\DynamicTableCreation.dll.config
+C:\Code\JCR\Tracers.AddEditObservation\Tracers.AddEditObservation\bin\DynamicTableCreation.dll
+C:\Code\JCR\Tracers.AddEditObservation\Tracers.AddEditObservation\bin\DynamicTableCreation.pdb
+C:\Code\JCR\Tracers.AddEditObservation\Tracers.AddEditObservation\obj\Debug\Tracers.AddEditObservation.csprojAssemblyReference.cache
+C:\Code\JCR\Tracers.AddEditObservation\Tracers.AddEditObservation\obj\Debug\DynamicTableCreation.dll
+C:\Code\JCR\Tracers.AddEditObservation\Tracers.AddEditObservation\obj\Debug\DynamicTableCreation.pdb
